@@ -13,4 +13,4 @@ for num in my_nums:
 print(unique_nums)
 
 sorted_unique = [num for num in my_nums if num in unique_nums]
-print(sorted_unique) 
+print(sorted_unique)
