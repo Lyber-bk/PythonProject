@@ -22,3 +22,4 @@ print(final_list)
 
 with open('text_7.1.json','w', encoding='utf-8') as f:
     json.dump(final_list, f, ensure_ascii=False, indent=4)
+    
